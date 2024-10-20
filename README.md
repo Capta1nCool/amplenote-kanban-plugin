@@ -7,11 +7,11 @@ A plugin to show tasks in form of a live kanban board inside of amplenote
 
 - [x] Ability to drag drop cards
 - [x] Create new columns with a + button
-- [ ] Delete columns with delete button
-- [ ] editing tasks when clicked on
+- [x] Delete columns with delete button
+- [x] editing tasks when clicked on
 - [ ] task desc should use rf note
-- [ ] sort by priority
 - [ ] limit on no. of tasks per col
+- [ ] Saving the plugin as a separate file
 
 # Dump
 
